@@ -1,0 +1,15 @@
+{
+  "name": "api_async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api_await.js"
+  },
+  "author": "Kazim",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

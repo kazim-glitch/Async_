@@ -1,0 +1,12 @@
+{
+  "name": "api_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node async_promise.js"
+  },
+  "author": "Kazim",
+  "license": "ISC"
+}

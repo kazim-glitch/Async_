@@ -1,0 +1,15 @@
+{
+  "name": "oracle_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_oracledb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_oracledb.js"
+  },
+  "author": "Kazim Ali",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^5.4.0"
+  }
+}

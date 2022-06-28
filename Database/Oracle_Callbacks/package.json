@@ -1,0 +1,15 @@
+{
+  "name": "oracle_callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node callback.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^5.4.0"
+  }
+}
